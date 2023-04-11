@@ -1,6 +1,6 @@
 # node-js-tutorial-app
 
-1. Run 'nodemon app.js' command on terminal to start the app.
+1. Run 'nodemon app.js' command in app folder on terminal to start the app.
 
 2. Supply desired information in as path parameter:
 
