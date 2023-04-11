@@ -2,7 +2,7 @@
 
 1. Run 'nodemon app.js' command in app folder on terminal to start the app.
 
-2. Supply desired information in as path parameter:
+2. Supply desired information in as a path parameter:
 
    i.e : localhost:3000/user/<name>/<age>/<sex>
    
