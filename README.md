@@ -4,7 +4,7 @@
 
 2. Supply desired information in as a path parameter:
 
-   // i.e : localhost:3000/user/&lt;name&lt;/&lt;age&lt;/&lt;sex&lt;
+   // i.e : localhost:3000/user/&lt;name&gt;/&lt;age&gt;/&lt;sex&gt;
    
    // e.g : localhost:3000/user/Kanyin/21/female.
 
