@@ -8,5 +8,5 @@
    
    // e.g : localhost:3000/user/Kanyin/21/female.
 
-3. Expect a the app to return a JSON output of this format:
+3. Expect a this program to return a JSON output of this format:
 {"name":"Kanyin","age":"21","sex":"female"}
