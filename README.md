@@ -4,9 +4,9 @@
 
 2. Supply desired information in as a path parameter:
 
-   i.e : localhost:3000/user/<name>/<age>/<sex>
+   # i.e : localhost:3000/user/<name>/<age>/<sex>
    
-   e.g : localhost:3000/user/Kanyin/21/female.
+   # e.g : localhost:3000/user/Kanyin/21/female.
 
 3. Expect a the app to return a JSON output of this format:
 {"name":"Kanyin","age":"21","sex":"female"}
